@@ -19,6 +19,7 @@ To run the movie recommender system on your local machine, follow these steps:
 `git clone https://github.com/Gazi10/recommender-movies.git`
 * Install the required packages:
 `pip install numpy pandas streamlit`
+* Download the similarity.pkl file and add it to the models directory: https://drive.google.com/file/d/16Pcntdc2LRwx760gZWTuA-VyMpC3emVT/view?usp=sharing
 
 ## Run the Streamlit app:
 `streamlit run app.py`
